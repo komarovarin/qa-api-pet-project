@@ -1,2 +1,2 @@
-# qa-python-tool
-my project for python
+# qa-api-test
+my project for API testing
